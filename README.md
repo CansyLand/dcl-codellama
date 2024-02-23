@@ -12,8 +12,7 @@ The primary goal is to automate the extraction of documentation, code examples, 
 ```
 {
   "prompt": "Assign a parent to an entity.",
-  "completion": "Transform.create(childEntity,
-    { parent: parentEntity });"
+  "completion": "Transform.create(childEntity, { parent: parentEntity });"
 }
 ```
 
